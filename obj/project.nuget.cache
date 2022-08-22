@@ -1,14 +1,15 @@
 {
   "version": 2,
-<<<<<<< HEAD
   "dgSpecHash": "xOQBZLiqWjN3Pw2moq6GnjLTqkSxEenNZhN8Ecerwm6MGEm2D7DxGueLGBZ0E+nk5221vOIRwj7Rr9x7eRHUzA==",
   "success": true,
   "projectFilePath": "C:\\BettrootCourses\\lesson08\\Homework\\PhoneBook\\PhoneBook.csproj",
-=======
-  "dgSpecHash": "GXYNPuid5aJ2NhepvR7j4rdnw4OU2mWa3PD9tkB47IMpP+1Z3fqFQeadDOwvbjIICIMl4ywtphy+ndUX/pRw/g==",
-  "success": true,
-  "projectFilePath": "C:\\BettrootCourses\\lesson08\\Homework\\TextHomework\\TextHomework.csproj",
->>>>>>> f93d221c8d1e86ceecf58c1c5d8cf67f8365827d
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Ошибка чтения файла кэша C:\\BettrootCourses\\lesson08\\Homework\\PhoneBook\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

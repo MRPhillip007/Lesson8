@@ -13,19 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
       "projectUniqueName": "C:\\BettrootCourses\\lesson08\\Homework\\PhoneBook\\PhoneBook.csproj",
       "projectName": "PhoneBook",
       "projectPath": "C:\\BettrootCourses\\lesson08\\Homework\\PhoneBook\\PhoneBook.csproj",
       "packagesPath": "C:\\Users\\filip\\.nuget\\packages\\",
       "outputPath": "C:\\BettrootCourses\\lesson08\\Homework\\PhoneBook\\obj\\",
-=======
-      "projectUniqueName": "C:\\BettrootCourses\\lesson08\\Homework\\TextHomework\\TextHomework.csproj",
-      "projectName": "TextHomework",
-      "projectPath": "C:\\BettrootCourses\\lesson08\\Homework\\TextHomework\\TextHomework.csproj",
-      "packagesPath": "C:\\Users\\filip\\.nuget\\packages\\",
-      "outputPath": "C:\\BettrootCourses\\lesson08\\Homework\\TextHomework\\obj\\",
->>>>>>> f93d221c8d1e86ceecf58c1c5d8cf67f8365827d
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\filip\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -72,5 +64,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Ошибка чтения файла кэша C:\\BettrootCourses\\lesson08\\Homework\\PhoneBook\\obj\\project.nuget.cache: Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
