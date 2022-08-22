@@ -1,0 +1,15 @@
+C:\BettrootCourses\lesson08\Homework\TextHomework\bin\Debug\net6.0\TextHomework.exe
+C:\BettrootCourses\lesson08\Homework\TextHomework\bin\Debug\net6.0\TextHomework.deps.json
+C:\BettrootCourses\lesson08\Homework\TextHomework\bin\Debug\net6.0\TextHomework.runtimeconfig.json
+C:\BettrootCourses\lesson08\Homework\TextHomework\bin\Debug\net6.0\TextHomework.dll
+C:\BettrootCourses\lesson08\Homework\TextHomework\bin\Debug\net6.0\TextHomework.pdb
+C:\BettrootCourses\lesson08\Homework\TextHomework\obj\Debug\net6.0\TextHomework.csproj.AssemblyReference.cache
+C:\BettrootCourses\lesson08\Homework\TextHomework\obj\Debug\net6.0\TextHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\BettrootCourses\lesson08\Homework\TextHomework\obj\Debug\net6.0\TextHomework.AssemblyInfoInputs.cache
+C:\BettrootCourses\lesson08\Homework\TextHomework\obj\Debug\net6.0\TextHomework.AssemblyInfo.cs
+C:\BettrootCourses\lesson08\Homework\TextHomework\obj\Debug\net6.0\TextHomework.csproj.CoreCompileInputs.cache
+C:\BettrootCourses\lesson08\Homework\TextHomework\obj\Debug\net6.0\TextHomework.dll
+C:\BettrootCourses\lesson08\Homework\TextHomework\obj\Debug\net6.0\refint\TextHomework.dll
+C:\BettrootCourses\lesson08\Homework\TextHomework\obj\Debug\net6.0\TextHomework.pdb
+C:\BettrootCourses\lesson08\Homework\TextHomework\obj\Debug\net6.0\TextHomework.genruntimeconfig.cache
+C:\BettrootCourses\lesson08\Homework\TextHomework\obj\Debug\net6.0\ref\TextHomework.dll

@@ -1,0 +1,15 @@
+C:\BettrootCourses\lesson08\Homework\PhoneBook\bin\Debug\net6.0\PhoneBook.exe
+C:\BettrootCourses\lesson08\Homework\PhoneBook\bin\Debug\net6.0\PhoneBook.deps.json
+C:\BettrootCourses\lesson08\Homework\PhoneBook\bin\Debug\net6.0\PhoneBook.runtimeconfig.json
+C:\BettrootCourses\lesson08\Homework\PhoneBook\bin\Debug\net6.0\PhoneBook.dll
+C:\BettrootCourses\lesson08\Homework\PhoneBook\bin\Debug\net6.0\PhoneBook.pdb
+C:\BettrootCourses\lesson08\Homework\PhoneBook\obj\Debug\net6.0\PhoneBook.csproj.AssemblyReference.cache
+C:\BettrootCourses\lesson08\Homework\PhoneBook\obj\Debug\net6.0\PhoneBook.GeneratedMSBuildEditorConfig.editorconfig
+C:\BettrootCourses\lesson08\Homework\PhoneBook\obj\Debug\net6.0\PhoneBook.AssemblyInfoInputs.cache
+C:\BettrootCourses\lesson08\Homework\PhoneBook\obj\Debug\net6.0\PhoneBook.AssemblyInfo.cs
+C:\BettrootCourses\lesson08\Homework\PhoneBook\obj\Debug\net6.0\PhoneBook.csproj.CoreCompileInputs.cache
+C:\BettrootCourses\lesson08\Homework\PhoneBook\obj\Debug\net6.0\PhoneBook.dll
+C:\BettrootCourses\lesson08\Homework\PhoneBook\obj\Debug\net6.0\refint\PhoneBook.dll
+C:\BettrootCourses\lesson08\Homework\PhoneBook\obj\Debug\net6.0\PhoneBook.pdb
+C:\BettrootCourses\lesson08\Homework\PhoneBook\obj\Debug\net6.0\PhoneBook.genruntimeconfig.cache
+C:\BettrootCourses\lesson08\Homework\PhoneBook\obj\Debug\net6.0\ref\PhoneBook.dll
